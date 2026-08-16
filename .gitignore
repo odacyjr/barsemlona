@@ -1,0 +1,6 @@
+# Dados locais e cópias compactadas não devem ser enviados ao repositório.
+data/*.db
+outputs/
+
+# Arquivos de sistema
+.DS_Store
